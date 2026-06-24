@@ -1,0 +1,7 @@
+cache/
+*.sqlite
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/
+*.pkl
